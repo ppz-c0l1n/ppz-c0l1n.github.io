@@ -1,25 +1,25 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Dazed and Confused
+description:      ppz.c0l1n's blog
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:https://ppz-c0l1n.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           ppz.c0l1n
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "DevOps, Pentester, алкоголик и ценитель адовой трешанины."
+  email:          ppz.c0l1n@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        https://twitter.com/ppz_c0l1n
   facebook:       
-  github:         
+  github:         https://github.com/ppz-c0l1n
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      https://www.instagram.com/ppz.c0l1n
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
@@ -29,13 +29,13 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-120317782-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Russia/Novosibirsk
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
