@@ -1,4 +1,4 @@
-title:            Dazed and Confused
+title:            
 description:      ppz.c0l1n's blog
 disqus_shortname: 
 reading_time:     true
@@ -11,15 +11,15 @@ url:              https://ppz-c0l1n.github.io
 owner:
   name:           ppz.c0l1n
   avatar:         avatar.jpg
-  bio:            "DevOps, Pentester, алкоголик и ценитель адовой трешанины."
+  bio:            "DevOps, Pentester, alcoholic and sketchbook maker."
   email:          ppz.c0l1n@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/ppz_c0l1n
+  twitter:        ppz_c0l1n
   facebook:       
-  github:         https://github.com/ppz-c0l1n
+  github:         ppz-c0l1n
   stackexchange:  
   linkedin:       
-  instagram:      https://www.instagram.com/ppz.c0l1n
+  instagram:      ppz.c0l1n
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
