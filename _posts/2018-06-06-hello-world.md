@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, world"
 description: "Именно таким должен быть первый пост."
-tags: [sample post, link post]
+tags: [void]
 comments: true
 ---
 
