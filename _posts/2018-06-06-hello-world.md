@@ -4,8 +4,6 @@ title: "Hello, world"
 description: "Именно таким должен быть первый пост."
 tags: [void]
 comments: true
-image:
-  feature: hat2.jpg
 ---
 
 ##### ppz.c0l1n@JCS> $ echo 'Hello, world!'
