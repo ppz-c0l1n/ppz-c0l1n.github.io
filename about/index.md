@@ -2,7 +2,7 @@
 layout: page
 title: About ppz.c0l1n
 image:
-  feature: hat.png
+  feature: hat.jpg
   credit: 
   creditlink: 
 comments: false
