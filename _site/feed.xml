@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
@@ -13,14 +14,12 @@
 <updated>2018-06-06T00:00:00+00:00</updated>
 <id>https://ppz-c0l1n.github.io/hello-world</id>
 <content type="html" xml:base="https://ppz-c0l1n.github.io/hello-world/">&lt;h5 id=&quot;ppzc0l1njcs--echo-hello-world&quot;&gt;ppz.c0l1n@JCS&amp;gt; $ echo ‘Hello, world!’&lt;/h5&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://ppz-c0l1n.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ppz-c0l1n.github.io/" rel="alternate" type="text/html" /><updated>2018-06-15T12:37:16+00:00</updated><id>https://ppz-c0l1n.github.io/</id><title>⠀</title><subtitle>ppz.c0l1n&#39;s blog</subtitle><entry><title>Hello, world</title><link href="https://ppz-c0l1n.github.io/hello-world/" rel="alternate" type="text/html" title="Hello, world" /><published>2018-06-06T00:00:00+00:00</published><updated>2018-06-06T00:00:00+00:00</updated><id>https://ppz-c0l1n.github.io/hello-world</id><content type="html" xml:base="https://ppz-c0l1n.github.io/hello-world/">&lt;h5 id=&quot;ppzc0l1njcs--echo-hello-world&quot;&gt;ppz.c0l1n@JCS&amp;gt; $ echo ‘Hello, world!’&lt;/h5&gt;
+>>>>>>> 56bf9366c5d242f0f343d3c55b60ce199a750cbc
 
 &lt;h5 id=&quot;hello-world&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Hello, World!&lt;/code&gt;&lt;/h5&gt;
 
 &lt;p&gt;Доброго времени суток, Друзья!&lt;/p&gt;
 
-&lt;p&gt;И вот он первый пост. Я решил не переносить посты с телеги, потому как не вижу смысла в копипасте и перепиливании на markdown. Не знаю на сколько хватит именно этой версии блога и когда будет перекат на более адекватную версию (и будет-ли он вообще). Но сюда посты будут пилиться по мере изучения новых технологий и с появлением разностей в жизни.&lt;/p&gt;
-</content>
-<category term="void" />
-<summary>ppz.c0l1n@JCS&amp;gt; $ echo ‘Hello, world!’</summary>
-</entry>
-</feed>
+&lt;p&gt;И вот он первый пост. Я решил не переносить посты с телеги, потому как не вижу смысла в копипасте и перепиливании на markdown. Не знаю на сколько хватит именно этой версии блога и когда будет перекат на более адекватную версию (и будет-ли он вообще). Но сюда посты будут пилиться по мере изучения новых технологий и с появлением разностей в жизни.&lt;/p&gt;</content><category term="void" /><summary>ppz.c0l1n@JCS&amp;gt; $ echo ‘Hello, world!’</summary></entry></feed>
