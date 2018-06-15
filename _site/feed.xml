@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://ppz-c0l1n.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ppz-c0l1n.github.io/" rel="alternate" type="text/html" /><updated>2018-06-15T18:59:36+00:00</updated><id>https://ppz-c0l1n.github.io/</id><title>⠀</title><subtitle>ppz.c0l1n&#39;s blog</subtitle><entry><title>Hello, world</title><link href="https://ppz-c0l1n.github.io/hello-world/" rel="alternate" type="text/html" title="Hello, world" /><published>2018-06-06T00:00:00+00:00</published><updated>2018-06-06T00:00:00+00:00</updated><id>https://ppz-c0l1n.github.io/hello-world</id><content type="html" xml:base="https://ppz-c0l1n.github.io/hello-world/">&lt;h5 id=&quot;ppzc0l1njcs--echo-hello-world&quot;&gt;ppz.c0l1n@JCS&amp;gt; $ echo ‘Hello, world!’&lt;/h5&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://ppz-c0l1n.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ppz-c0l1n.github.io/" rel="alternate" type="text/html" /><updated>2018-06-15T19:06:09+00:00</updated><id>https://ppz-c0l1n.github.io/</id><subtitle>ppz.c0l1n&#39;s blog</subtitle><entry><title>Сказ о просранном дне.</title><link href="https://ppz-c0l1n.github.io/tale-about-day/" rel="alternate" type="text/html" title="Сказ о просранном дне." /><published>2018-06-16T00:00:00+00:00</published><updated>2018-06-16T00:00:00+00:00</updated><id>https://ppz-c0l1n.github.io/tale-about-day</id><content type="html" xml:base="https://ppz-c0l1n.github.io/tale-about-day/">&lt;p&gt;Доброго времени стуток, друзья!&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;Предисловие&lt;/h3&gt;
+
+&lt;p&gt;Долго у меня не доходили руки написать пост. То блокнотом занимался, то собирал кровать из Икеи ( смею заметить, с первого раза и не осталось &lt;em&gt;лишних&lt;/em&gt; деталей), то работы было over 9000 . В любом случае усталость давала о себе знать. Но тут юзвери сделали своё дело и кипящая ненавить сделала своё. И вот я пишу пост полный &lt;strong&gt;БАГОРА&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;Сказ о просранном дне&lt;/h3&gt;
+
+&lt;p&gt;И так, день начался с планёрки где каждый житель IT-отдела рассказывал о том, что делал вчера и чем займётся сегодня. Когда очередь дошла до меня, я пожаловался на прошедший день. Точнее на колличество тасков связанных с поддержкой  пользователей. И распланировал день на уровне:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Допилить workstation джуну&lt;/li&gt;
+  &lt;li&gt;Дописать postgres data exporter (далее PDE)&lt;/li&gt;
+  &lt;li&gt;Написать systemd unit для PDE&lt;/li&gt;
+  &lt;li&gt;Научить Grafana принимать данные с PDE и красиво преобразовывать данные в граффики&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Я знал, что проект был поставлен на скачку ещё вчера перед уходом. Улыбка цвела на моём лице и казалось, что ничего не может её стереть. Казалось так ровно до того, как не вошёл в кабинет к &lt;del&gt;аутистам&lt;/del&gt; front-end разработчикам (Видимо для поднятия среднего IQ в кабинете до адекватного уровня там поселился мой руководитель). Я бросил взгляд по почерневший экран рабочей станции на которой стягивался с гита давольно толстый проект. Негромко поздаровавшись с присутствующими и услышав в ответ нечленораздельное мычание, которое в разнобой раздалось с разных концов кабинета, я направился к Мишель (имя было изменено) и его компуктерну. Дёрнув мышь, я не заметил открытой консолечки в которой должно было делаться магическое &lt;strong&gt;&lt;em&gt;git clone gitlab.companyname.fag/oche-tolstiy-proekt&lt;/em&gt;&lt;/strong&gt; и решил уточнить: ЧОЙТА ЗАКРЫТО? В ответ я получил что-то вроде: “Ну я перед уходом его в сон.”&lt;/p&gt;
+
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;https://ppz-c0l1n.github.io/images/rage.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;И тут до меня доходит, что ожидать от человека, который в КОРПОРАТИВНОМ слаке поменял имя фамилию на &lt;strong&gt;mishutka15&lt;/strong&gt;, В КОРПОРАТИВНОМ гитлабе захерачил себе логин &lt;strong&gt;lemon1990&lt;/strong&gt; и не мог зайти на гитлаб используя как логины имя или фамилию, ожидать от него чего-то нельзя. Надо быть уверенным, что он обосрётся на каждом шагу. И вот я начинаю весь процесс заново. И отползаю немного успокоиться и поплакать. Когда я вернулся, я увидел разработчик мабильной версии, назавём его bug-done, что-то активно вхуячивает в консоль Мишели. Было даже интересно наблюдать как типичный форточник копирует команды правлославных систем из гугла в консоль. Но потом накатилась волна осознания, что наш проект на 99% работает не так, как предпологает ответ на запрос гугл. В итоге я получил побитые конфиги, кривые docker контейнеры и убитые к чертям привилегии доступов для пользователей и групп в ОС. И только сейчас, когда вернулся домой и наконец-то пообедав (часов в 11 вечера) я понял, что просто переустановить систему и поставить всё на девственную систему, было бы быстрее, что тратить весь день на исправление всех этих косяков.&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;Мораль&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Товарищи системые администраторы, ставьте на рабочую станцию свой пароль, и не давайте менять его пользователю до тех пор, пока не сделаете всё на 100%. Ибо юзер может обосраться даже в docker/up&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="rage" /><summary>Доброго времени стуток, друзья!</summary></entry><entry><title>Hello, world</title><link href="https://ppz-c0l1n.github.io/hello-world/" rel="alternate" type="text/html" title="Hello, world" /><published>2018-06-06T00:00:00+00:00</published><updated>2018-06-06T00:00:00+00:00</updated><id>https://ppz-c0l1n.github.io/hello-world</id><content type="html" xml:base="https://ppz-c0l1n.github.io/hello-world/">&lt;h5 id=&quot;ppzc0l1njcs--echo-hello-world&quot;&gt;ppz.c0l1n@JCS&amp;gt; $ echo ‘Hello, world!’&lt;/h5&gt;
 
 &lt;h5 id=&quot;hello-world&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Hello, World!&lt;/code&gt;&lt;/h5&gt;
 

@@ -1,4 +1,4 @@
-title:            ⠀
+title:            
 description:      ppz.c0l1n's blog
 disqus_shortname: ppzc0l1n
 reading_time:     true
@@ -36,7 +36,7 @@ bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Russia/Novosibirsk
-future:      false  # publish future dated posts --  true, false (default) 
+future:      true  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
 gems:
